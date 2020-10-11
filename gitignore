@@ -1,0 +1,18 @@
+#A hack to ignore * without extensions
+# Ignore ALL 
+*.zip
+*.out
+*.o
+*.tz
+*.bak
+*.tar
+*~
+*.dat
+*.obj
+*.d
+*.log
+
+#*.dSym
+
+core
+
